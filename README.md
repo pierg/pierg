@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Pier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierg)](https://github.com/pierg/github-readme-stats)
+[![Pier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
