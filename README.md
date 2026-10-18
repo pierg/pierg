@@ -12,7 +12,7 @@ Three tools for working with coding agents. Each puts a check the agent cannot t
 
 ### Earlier research
 
-- **[Pacti](https://github.com/pacti-org/pacti)**: compositional system analysis with assume-guarantee contracts, used in a NASA JPL Mars entry, descent and landing case study.
+- **[Pacti](https://github.com/pacti-org/pacti)**: compositional system analysis with assume-guarantee contracts. I added its refinement and repair operations and led its [case study on UAV topologies](https://www.pacti.org/case_studies/cs-uav-topologies/topologies/), built on the DARPA design work. It was separately used in a NASA JPL Mars entry, descent and landing case study.
 - **[CROME](https://github.com/pierg/crome-cgg)**: correct-by-construction robotic missions, from contracts over temporal logic to synthesized controllers.
 - **[Fact Fortress](https://github.com/pierg/fact-fortress-dapp)**: zero-knowledge proofs for private fact-checking. First place, UC Berkeley ZKP Hackathon.
 - **[Cloud Guardian](https://github.com/pierg/cloud-guardian)**: graph analysis of AWS IAM policies for privilege escalation. Part of CloudShieldAI, Craft Ventures HackAIthon grand prize.
