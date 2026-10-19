@@ -2,9 +2,9 @@
 
 I build agent systems and bring research ideas into production. I design systems the way formal methods taught me: in contracts, what each part assumes, what it guarantees, and how the parts compose.
 
-### Building now
+### Open source
 
-Three tools for working with coding agents. Each puts a check the agent cannot talk past between its work and what counts as done.
+Three tools I use when working with coding agents. Each puts a check the agent cannot talk past between its work and what counts as done.
 
 - **[folio](https://github.com/pierg/folio)**: a knowledge library an agent writes and keeps, with no fixed template: each page takes the form that explains it best, from interactive HTML with figures, controls and math to a LaTeX paper, and on every save code checks each link and that no recorded entry was edited. `uv tool install folio-kb`
 - **[lab-kit](https://github.com/pierg/lab-kit)**: a research lab run by agents, on folio. Each hypothesis, with the predictions that could refute it and the rules that decide them, is frozen before the first run, every reported number is recomputed from sealed run output on each check, and a reviewer agent with a fresh context checks that the analysis supports the report. `uv tool install lab-kit-cli`
